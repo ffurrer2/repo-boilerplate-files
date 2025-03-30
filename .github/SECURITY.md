@@ -1,4 +1,3 @@
-<!-- SPDX-License-Identifier: MIT -->
 # Security Policy
 
 ## Supported Versions
